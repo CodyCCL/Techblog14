@@ -7,3 +7,4 @@ Writing about tech can be just as important as making it. Developers spend plent
 ![image](https://github.com/CodyCCL/Techblog14/assets/142187489/fe7aa927-9048-45ab-a414-afa801eeaf8f)
 
 ## Link
+https://techblogposting-f7b7d51611c9.herokuapp.com/
